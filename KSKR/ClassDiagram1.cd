@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="KSKR.Choose">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAYAAAQIGAAAAAAAAA=</HashCode>
+      <FileName>Choose.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KSKR.Conditions">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAACAAAAAAAAAIAAAABAAAA=</HashCode>
+      <FileName>Conditions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KSKR.FileChoose">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAACAAAAAAAACAQgACAEA4AAAAEHAIAAAAAAA=</HashCode>
+      <FileName>FileChoose.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KSKR.KeyBoard">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAmAAABIACACABAUBgCAAgAKCEAAAAA0M/FoCALQQBA=</HashCode>
+      <FileName>KeyBoard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KSKR.Size">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAADAAA4ABAAEHAAAAAAAAA=</HashCode>
+      <FileName>Size.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
